@@ -1,0 +1,6 @@
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Junior\source\repos\SolucaoSistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
